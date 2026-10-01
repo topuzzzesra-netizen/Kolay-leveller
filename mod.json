@@ -1,0 +1,14 @@
+{
+  "geode": "v1.8.0",
+  "gd": {
+    "win": "2.200",
+    "android": "2.200"
+  },
+  "id": "yusuf.svc_level_helper",
+  "name": "SVC Level Helper",
+  "version": "1.0.0",
+  "developer": "Yusuf",
+  "description": "Stevomets tarzı düzenlemeler ve 3'ten fazla collectible (coin) desteği sağlayan mod.",
+  "dependencies": [],
+  "settings": {}
+}
